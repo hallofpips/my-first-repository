@@ -1,0 +1,2 @@
+# Igonore all SQLite3 data
+db/*.sqlite3
