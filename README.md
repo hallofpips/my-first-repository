@@ -8,3 +8,5 @@ View status with git status
 Stage changes to index with git add
 Commit changes to version history with git commit
 View changes with git log
+
+You need to be precise
