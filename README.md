@@ -17,4 +17,4 @@ Coding is increasing my mental capacity
 
 I am glad i am consistent
 
-I am making the computer sing
+Why is this difficult
