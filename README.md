@@ -14,3 +14,5 @@ You need to be precise
 You have to be willing to pay attention
 
 Coding is increasing my mental capacity
+
+I am glad i am consistent
